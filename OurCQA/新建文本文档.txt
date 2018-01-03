@@ -1,0 +1,8 @@
+二、数据库设计
+1.编写models 数据库
+blank = True 这个字段可以为空 null =True 如果有空的字段就会默认为null
+CharField 用来存储字符串的 TextField用来存储文本的
+
+2.同步数据库
+3.登录admin 然后在admin.py中注册models
+4.views和urls
